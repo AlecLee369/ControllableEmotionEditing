@@ -1,14 +1,14 @@
 
 <p align="center">
-  <img width="80%" src="images/workflow.png">
+  <img width="80%" src="images/workflow.png"><br>
   <em>Figure 1: Overall Workflow</em>
 </p>
 <p align="center">
   <img width="80%" src="images/seg.png">
-  <em>Figure 2: Comparison of workflows with and without the segmentation model</em>
+  <em>Figure 2: Comparison of workflows with and without the segmentation model</em><br>
 </p>
 <p align="center">
-  <img width="80%" src="images/samples.png">
+  <img width="80%" src="images/samples.png"><br>
   <em>Figure 3: Final Result sample</em>
 </p>
 
