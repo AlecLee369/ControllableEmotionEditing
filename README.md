@@ -4,8 +4,8 @@
   <em>Figure 1: Overall Workflow</em>
 </p>
 <p align="center">
-  <img width="80%" src="images/seg.png">
-  <em>Figure 2: Comparison of workflows with and without the segmentation model</em><br>
+  <img width="80%" src="images/seg.png"><br>
+  <em>Figure 2: Comparison of workflows with and without the segmentation model</em>
 </p>
 <p align="center">
   <img width="80%" src="images/samples.png"><br>
